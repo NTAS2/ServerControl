@@ -1,0 +1,10 @@
+## Define database and its attributes
+
+Database: 'ntas'
+DBhost: '<ip/dns name of database server>'
+DBuser: '<dbusername>'
+DBpassword:'<supersecret>'
+Marker: ""
+Port: <1579>
+MergePort: <1589>
+MergeIP: <'127.0.0.1'>
